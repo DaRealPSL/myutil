@@ -1,0 +1,51 @@
+# PROPRIETARY LICENSE AND TERMS OF USE
+
+**Copyright (c) [2026-present] Pepijn Snoeren. All Rights Reserved.**
+
+---
+
+### 1. DEFINITIONS
+
+* **"Software"** refers to all source code, documentation, assets, and files contained within this repository titled "myutil".
+* **"Author"** refers to Pepijn Snoeren, the sole owner of all intellectual property rights associated with the Software.
+* **"User"** refers to any individual or entity who accesses or views the Software.
+
+### 2. LIMITED LICENSE AND SCOPE
+
+The Software is provided for **viewing purposes only**. The Author grants the User a personal, non-exclusive, non-transferable, and revocable license to access and view the source code of the Software solely through the GitHub platform.
+
+Except for the limited right to view the code on GitHub, **no other rights are granted**. All rights not expressly granted in this License are reserved by the Author.
+
+### 3. RESTRICTIONS
+
+The User is strictly prohibited from engaging in any of the following actions:
+
+* **No Copying:** The User shall not copy, duplicate, or reproduce the Software, in whole or in part, in any medium.
+* **No Modification:** The User shall not modify, adapt, transform, or create derivative works based upon the Software.
+* **No Redistribution:** The User shall not distribute, publish, sublicense, rent, lease, or otherwise make the Software available to any third party.
+* **No Commercial or Non-Commercial Use:** The User shall not use the Software for any functional, educational, personal, or commercial purpose other than visual inspection of the code.
+* **No Forking or Downloading:** Except as strictly required by GitHub’s Terms of Service to enable the technical viewing of the repository on the platform, the User is expressly prohibited from forking, cloning, downloading, or maintaining any local copies of the Software.
+
+### 4. OWNERSHIP OF INTELLECTUAL PROPERTY
+
+The Author retains all right, title, and interest in and to the Software, including all copyrights, patents, trade secrets, trademarks, and other intellectual property rights. This License does not transfer any ownership interest to the User.
+
+### 5. TERMINATION
+
+This License is effective until terminated. This License will terminate automatically without notice from the Author if the User fails to comply with any term or condition of this License. Upon termination, the User must cease all viewing of the Software and delete any technical copies (cached or otherwise) in their possession.
+
+### 6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### 7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE VIEWING OR USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+### 8. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of **[Jurisdiction]**, without regard to its conflict of law principles. Any legal action or proceeding arising under this License will be brought exclusively in the courts located in **[Jurisdiction]**.
+
+### 9. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the User and the Author regarding the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
